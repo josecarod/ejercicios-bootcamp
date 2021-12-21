@@ -1,0 +1,30 @@
+      /* comentarios en CSS */
+        .encabezado {font-size: 72px;
+            /* color de fuente */
+            color: cadetblue;
+            /* background-color es para el color del fondo */
+            background-color: #f5f5f7;
+            /* text-align permite alinear el texto*/
+            text-align: center;
+            text-transform: lowercase;
+        }
+        body {background-color: chocolate;}
+
+        #texto {color: rgb(0, 13, 130);
+        background-color: khaki; font-style: oblique;
+        font-size: 24px;
+      }
+
+        .texto {
+          color: darkmagenta;
+          background-color: honeydew;
+        }
+
+        p {
+          color: yellow;
+          background-color: wheat;
+        }
+
+        p {color: darkcyan;
+          background-color: darkgreen;
+        }
