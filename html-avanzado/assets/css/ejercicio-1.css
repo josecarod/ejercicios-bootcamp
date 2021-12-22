@@ -1,0 +1,28 @@
+.cuadrodetexto {
+    width: 450px; height: 400px; background-color: green; margin: 20px;
+    border-style: solid; border-width: 10px; border-color: rgb(188, 224, 233); border-radius: 4px; padding: 30px;
+
+}
+
+#label {
+    border-width: 2px; border-color: red; margin-left: 30px; text-align: center;
+}
+
+.etiqueta {
+    margin: 3px; color: white; margin-left: 100px;
+}
+
+.linea {
+    border-bottom: white; border-bottom-style: dashed; width: 200px; margin-top: 50px; margin-left: 40px;
+}
+
+.subtitle {
+    color: white; font-size: medium; margin-left: 50px;
+
+}
+
+.enviar {margin-left: 50px; margin-top: 20px; 
+
+}
+
+

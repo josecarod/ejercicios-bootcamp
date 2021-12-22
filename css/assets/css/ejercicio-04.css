@@ -1,0 +1,48 @@
+body {background-color: rgb(63, 121, 63);
+
+}
+
+h1 { color: white;
+    text-shadow: black 3px 3px;
+}
+
+.caja1 {
+    margin-left:250px; margin-right: 250px; border-radius: 25px; padding: 20px; border: 5px solid black; background-color: white; align-content: center; 
+}
+
+.caja2 {
+    margin-right: 500px;
+    border-top-left-radius: 25px; border-bottom-left-radius: 25px; padding: 20px; border: 10px solid brown; background-color: rgb(185, 99, 18); align-content: center;
+    color: white
+}
+
+.caja3 {
+    margin-left: 500px;
+    border-top-right-radius: 25px; border-bottom-right-radius: 25px;padding-top: 1opx; padding-bottom: 10px; border: 10px solid rgb(110, 77, 4); background-color: rgb(202, 166, 68); align-content: center; color: white;
+}
+
+.caja4 {
+    margin-left:250px; margin-right: 250px; padding: 20px; border-style:dashed; border: 5px solid rgb(193, 183, 238); background-color: blue; align-content: center; color: white;
+}
+
+.caja5 {
+    margin-right: 500px;
+    border-top-left-radius: 25px; border-bottom-left-radius: 25px; padding: 20px; border: 10px solid brown; background-color: rgb(185, 99, 18); align-content: center; color: white;
+}
+
+.caja6 {
+    margin-left: 500px;
+    border-top-right-radius: 25px; border-bottom-right-radius: 25px;padding-top: 1opx; padding-bottom: 10px; border: 10px solid rgb(110, 77, 4); background-color: rgb(202, 166, 68); align-content: center;
+    color: white;
+}
+
+.caja7 {
+    margin-left:250px; margin-right: 250px; padding: 20px; border-style:ridge; border: 5px solid rgb(193, 183, 238); background-color: blue; align-content: center; color: white;
+}
+
+
+
+
+
+
+
