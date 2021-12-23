@@ -1,0 +1,5 @@
+table, tr, th, td {
+    border: black solid 1px; background-color: blue; width: 400px;
+}
+
+td { background-color: purple;}

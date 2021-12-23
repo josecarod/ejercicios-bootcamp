@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(177, 248, 239);
+}
+
+h1 {
+    margin-left: 90px;
+}
+
+table, thead, tr, th, td {
+    border:black solid 1px;
+}
+
+.tdblack {
+    background-color: black;
+}
+
+.tdgreen {
+    background-color: chartreuse;
+}
+.tdorange {
+    background-color:orange;
+}
+
+#feliz { 
+
+}
+
+#textorojo {
+    color: red;
+}
+
+.gratis {
+    font-style: italic;
+}

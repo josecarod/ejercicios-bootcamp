@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="assets/css/ejercicio-tablas.css" type="text/css" />
+        <title>Tablas</title>
+    </head>
+
+    <body>
+        <h1>Ejercicio de Tablas</h1>
+            <!-- rowspan - se extiende por filas - crece hacia abajo -->
+            <!-- colspan - se extiende por columnas - crece hacia la derecha -->
+        <table>
+            <thead>
+                <!-- tr - crea una fila -->
+                <tr>
+                    <!-- th - cabecera de tabla -->
+                    <th>Producto</th>
+                    <th>Precio <span id="textorojo">individual</span></th>
+                    <th>Cantidad</th>
+                    <th>Precio total</th>
+                </tr>
+
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Hola Mundo</td>
+                    <td class="gratis">Gratis</td>
+                    <td>5</td>
+                    <td>Gratis</td>
+                </tr>
+                <tr>
+                    <td>Perrito feliz</td>
+                    <td class="tdorange">$19.99</td>
+                    <td class="tdorange">2</td>
+                    <td>$39.98</td>
+                </tr>
+                <tr>
+                    <td>Perrito <span id="feliz">Feliz</span> muy feliz</td>
+                    <td>$29.99</td>
+                    <td>3</td>
+                    <td>$89.9</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td class="tdblack"></td>
+                    <td class="tdgreen">Total $49.99</td>
+                    <td class="tdgreen">10</td>
+                    <td class="tdgreen">$129.95</td>
+                </tr>
+            </tfoot>
+        </table>
+
+    </body>
+</html>
